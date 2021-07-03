@@ -23,3 +23,7 @@ h1{
 .gg{
     align-self: flex-end;
 }
+img{
+    width: 50%;
+    height: 375px;
+}
